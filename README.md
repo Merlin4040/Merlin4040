@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Merlin
+- 👀 I’m interested in Hacking
+- 🌱 I’m currently learning c#
